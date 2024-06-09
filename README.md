@@ -14,6 +14,7 @@ Financial-file-classifier is a simple streamlit application that aims to classif
 
 *  **Continuous Learning:** My commitment to continuous improvement drives me to utilize BERT and other LLM" models to improve the functioning of the application.
 *  **Collaboration Driven:** I'm open to collaboration and welcome suggestions from like-minded individuals.
+*  **Try it out yourself:** https://financial-file-classification-app.streamlit.app/
 
 **Let's Connect!**
 
