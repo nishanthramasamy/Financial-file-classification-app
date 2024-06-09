@@ -6,7 +6,7 @@ Financial-file-classifier is a simple streamlit application that aims to classif
 
 **Features:**
 
-*  **Engaging and User-Friendly:** The repository consists of a app.py file, which runs a streamlit app with a simple user interface that helps you upload your html file and gives the file type as the output.
+*  **Engaging and User-Friendly:** The repository consists of a classification_app.py file, which runs a streamlit app with a simple user interface that helps you upload your html file and gives the file type as the output.
 *  **Powerful and Efficient:** Built with logistic regression/ Random classifier, it delivers with the accuracy of 94%.
 *  **Customizable and Adaptable:** The project allows for switching over to different model, Logistic regression or Random Forest Classifier to cater to diverse needs and preferences.
 
