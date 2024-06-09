@@ -28,7 +28,7 @@ other_docs = []
 
 #Extracting data from all files
 for folder_name in ['Balance Sheets', 'Cash Flow', 'Income Statement', 'Notes', 'Others']:
-    folder_path = os.path.join(rf"F:\my_own_projects\Finac_guvi\data", folder_name)
+    folder_path = os.path.join(rf"Path/to/folders", folder_name)
     for file_name in os.listdir(folder_path):
         file_path = os.path.join(folder_path, file_name)
         with open(file_path, 'r', encoding='utf-8', errors='ignore') as file:
