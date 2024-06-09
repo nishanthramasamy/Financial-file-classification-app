@@ -1,4 +1,3 @@
-Markdown
 #  Financial-file-classification-app - For finance teams
 
 **Overview:**
